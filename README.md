@@ -24,7 +24,3 @@ Download the file using the filename returned by the upload request:
 ```bash
 curl -O http://localhost:3000/download/<filename>
 ```
-
-## 개발 계획
-
-전체 플랫폼을 지원하는 파일 전송 앱 개발 계획은 [PLAN.md](PLAN.md) 문서를 참고하십시오.
